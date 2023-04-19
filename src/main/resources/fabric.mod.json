@@ -3,9 +3,10 @@
   "id": "mod-loading-screen",
   "version": "${version}",
   "name": "Mod Loading Screen",
-  "description": "An advanced loading screen with the loading progress of mods",
+  "description": "An advanced loading screen with the loading progress of mods, edited for AOTKS.",
   "authors": [
     "Gaming32"
+    "Cartrigger"
   ],
   "contact": {},
   "license": "MIT",
